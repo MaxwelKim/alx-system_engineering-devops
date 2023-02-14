@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="school"
+mkdir -p BEST && touch BEST/school

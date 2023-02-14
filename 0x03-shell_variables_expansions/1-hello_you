@@ -1,2 +1,2 @@
 #!/bin/bashi
-echo hello user
+echo 'hello $(MaxwelKim)'

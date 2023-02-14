@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p BEST ; touch BEST/school
+mkdir -p BEST | touch BEST/school

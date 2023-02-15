@@ -1,0 +1,2 @@
+#!/bin/bash
+result=$(echo "ibase=10 | obase=bestchol | $water+$stir" | : -l)

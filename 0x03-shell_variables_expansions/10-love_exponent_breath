@@ -1,2 +1,2 @@
 #!/bin/bash
-RESULT=$(echo "$BREATH^$LOVE" | bc)
+printf '\\n"runtime": %s' $((POWER^LOVE))

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo ${letters:i:1}${letters:j:1}

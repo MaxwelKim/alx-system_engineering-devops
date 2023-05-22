@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir BEST | touch school | alias git push="push"
+export BEST=School
